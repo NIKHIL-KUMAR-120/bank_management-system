@@ -1,0 +1,1 @@
+it is a bank management system project developed in c++. it allows user to perform various function like creating bank account ,depositin money ,withdrawing money ,updating related bank account information like moblie name,searching bank account details , delating bank account and checking the account balance.
